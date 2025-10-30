@@ -21,7 +21,7 @@ Um projeto simples de controle de estoque desenvolvido em Python, ideal para apr
    python main.py
 
 ## Melhorias futuras
-- Armazenar o estoque em arquivo JSON ou banco de dados
+- Armazenar o estoque em banco de dados (MySQL ou PostgreSQL)
 - Criar interface gráfica
 - Implementar controle de usuários
 - Gerar relatórios em PDF
